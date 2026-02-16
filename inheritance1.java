@@ -1,3 +1,5 @@
+// NAMA : STEVEN FIRLI MAJU HASIHOLAN SITORUS 
+// NIM : 255150200111021
 //super class 
 class bidangDuaDimensi {
     protected String nama;
